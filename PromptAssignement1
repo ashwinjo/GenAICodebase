@@ -1,0 +1,62 @@
+
+------
+Assignment: Incorporate what you have learnt about hyperparameters, as well as best prompting principles, to engineer your (roughly) 250-word cover letter:
+
+1) Speak about your best traits, skills and qualities.
+
+2) Speak about any significant projects/tasks you have worked on.
+
+3) Be sure to mention your growing proficiency in Prompt Engineering.
+
+
+This cover letter will accompany your CV when applying for jobs, promotions, etc. It is entirely your own and there is no right or wrong answer. Focus on building a prompt that generates a cover letter written with professional language that flows well and portrays the best version of you.
+-------
+
+
+
+Context:   I am a Network Automation Engineer  who wants to make a career move.  
+
+Prompt: I want to write a cover letter for Acme Inc where I am applying as GenAI  SolutionsArchitect. Include the 'details' in the cover letter.
+
+Details:
+1) Name: Ashwin Joshi
+2)Company Applying to: Acme Inc
+3)Hiring Manager: Donald Trump
+4)Skills: Python Expert, Devops Intermediate, GenAI Beginner.
+5)Certifications: CCNA, PG in DevOPS, GenAI Fundamentals, Prompt Engineer, Azure Fundamentals and Administrator, AWS Cloud Practitioner
+6)Present Work: Technical presales for 2 + years, Leading AI migration efforts withing Solutions Engineering Org. Exceeding quota every quarter on a average by 15%
+7) Role I am aiming for:  GenAI Solutions Architect
+8) Best Traits: Easy to coache, creative, problem solver, go getter.
+9) Notable Projects: AI Chatbot to for Network Management, Web Portal to Manage Ixia Inventory for Networking Labs, Ixia Infra Upgrade Script.
+10) Skill I am learning: Prompt Engineering . MLOps, LLMOps
+
+Clarifications:
+1) Write the cover letter showing  my existing skills  transferrable to GenAI Architect Role. 
+2) Maintain professional diction
+3) Keep the cover letter under 500 words
+4) Use relevant quotes by famous technocreats
+
+Target Audience:
+1) Existing GenAI Architect
+2) AI Engineering Manager
+
+Dear Mr. Trump,
+
+I am writing to express my interest in the GenAI Solutions Architect position at Acme Inc. As a highly skilled Network Automation Engineer with a passion for cutting-edge technology, I am confident that I possess the necessary skills and experience to excel in this role.
+
+My name is Ashwin Joshi and I have been working in the field of Network Automation for over 2 years now. I have been following the developments in the field of Artificial Intelligence closely and have been eagerly waiting for an opportunity to work in this exciting area. When I came across the opening for a GenAI Solutions Architect at Acme Inc, I knew that this was the perfect opportunity for me to make a career move.
+
+My skills in Python and DevOps, combined with my beginner level knowledge in GenAI, make me a strong candidate for this role. I have also obtained relevant certifications such as CCNA, PG in DevOps, GenAI Fundamentals, Prompt Engineer, Azure Fundamentals and Administrator, and AWS Cloud Practitioner. These certifications have not only expanded my knowledge but have also helped me to stay updated with the latest advancements in the field.
+
+In my current role as a Technical Presales Engineer, I have been leading AI migration efforts within the Solutions Engineering Organization. I have consistently exceeded my sales quota by an average of 15% every quarter. This demonstrates my ability to not only understand the technical aspects of a project but also to effectively communicate its value to clients.
+
+My best traits include being easy to coach, creative, a problem solver, and a go-getter. These qualities have helped me to successfully complete projects such as developing an AI chatbot for network management, creating a web portal to manage Ixia inventory for networking labs, and upgrading the Ixia infrastructure using a custom script.
+
+As I continue to expand my skills, I am currently learning Prompt Engineering, MLOps, and LLMOps. I am confident that these skills, combined with my existing knowledge and experience, will enable me to excel in the role of a GenAI Solutions Architect.
+
+As Steve Jobs once said, "Innovation distinguishes between a leader and a follower." I strongly believe that Acme Inc's commitment to innovation aligns with my own personal values and goals. I am excited about the opportunity to join your team and contribute to the company's success.
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications further.
+
+Sincerely,
+Ashwin Joshi
